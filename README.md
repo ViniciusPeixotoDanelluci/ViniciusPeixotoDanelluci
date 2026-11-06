@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hoi, I'm Vinicius, or just Dina for short!<br>I'm a Brazilian ADS (Software Development) student who loves learning about programming, game design, shaders, and software architecture. I also love to analyse other people's code and sometimes fork them, especially when it involves tech art.<br>Right now my main focus is updating ![gebs](https://github.com/ViniciusPeixotoDanelluci/gebs), making a plugin out of it, and finishing my first game. I'm also developing a web code editor for college events which should go live by end of October -hopefully.
+Hoi, I'm Vinicius, or just Dina for short!<br>I'm a Brazilian ADS (Software Development) student who loves learning about programming, game design, shaders, and software architecture. I also love to analyse other people's code and sometimes fork them, especially when it involves tech art.<br>Right now my main focus is finishing my internship project, a web code editor for college events which should go live by end of November -hopefully, tough i'm also working in ![gebs](https://github.com/ViniciusPeixotoDanelluci/gebs), making a plugin out of it, and trying to finish my first game.
 
 
 ## 🌐 Socials:
